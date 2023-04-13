@@ -1,7 +1,7 @@
 name: Weather GitActions
 
 on: push
-
+#update
 jobs:
   build-linux:
     runs-on: ubuntu-latest
